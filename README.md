@@ -1,0 +1,9 @@
+<h1 align="center"><span style="color: #8FE2D9;"> < <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hello World!, Olá nos somos a <strong>VitalFlow</strong>  /> </span></h1>
+
+<h2>Acerca desta app</h2>
+
+<p>O VitalFlow é uma plataforma inovadora que integra ciência, tecnologia e todas as novidades da Educação Física, Saúde, Educação e Qualidade de Vida em um só lugar. Nossa paixão pelo movimento e por tudo o que ele agrega à formação humana, aliada à experiência da prática docente, construíram esta ferramenta que visa enriquecer e contribuir com o trabalho dos professores e alunos. Os benefícios da cultura corporal do movimento são inúmeros e podem, sim, crescer com as crianças e adolescentes, transformando suas realidades.</p>
+
+<p>Com o VitalFlow, estamos comprometidos em oferecer um ambiente onde educadores e alunos possam se beneficiar de funcionalidades como o monitoramento do desenvolvimento físico e motor dos alunos, o acompanhamento do envolvimento dos alunos nas aulas de Educação Física, a exploração dos diferentes domínios da Educação Física através de aulas planejadas e baseadas em achados científicos, o conhecimento da história e do papel social dos jogos, esportes, atividades físicas e culturais nas sociedades, além da divulgação de cursos, palestras e atividades relevantes para a formação do educador físico, e um calendário de eventos esportivos e culturais nas cidades.</p>
+
+<p>Nosso objetivo é promover um estilo de vida ativo e saudável para todas as idades, proporcionando uma experiência educacional rica e estimulante.</p>
